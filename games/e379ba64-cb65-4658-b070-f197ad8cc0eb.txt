@@ -1,0 +1,2384 @@
+U 100 100
+C ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b blue 0
+C ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170 red 1
+C ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b yellow 0
+C ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170 green 1
+P 0 26 37 0.4 40 blue
+P 1 46 17 0.1 10 red
+P 2 57 16 0.9 90 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 40 yellow
+P 5 54 83 0.1 10 green
+P 6 43 84 0.9 90 null
+P 7 55 79 0.2 20 null
+R 44 blue
+R 11 red
+R 44 yellow
+R 11 green
+P 0 26 37 0.4 24 blue
+P 1 46 17 0.1 6 red
+P 2 57 16 0.9 90 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 24 yellow
+P 5 54 83 0.1 6 green
+P 6 43 84 0.9 90 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 1 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 1 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 1 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 3 5 5 6 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 48 blue
+R 12 red
+R 48 yellow
+R 12 green
+P 0 26 37 0.4 16 blue
+P 1 46 17 0.1 4 red
+P 2 57 16 0.9 90 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 16 yellow
+P 5 54 83 0.1 4 green
+P 6 43 84 0.9 90 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 2 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 2 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 2 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 3 5 5 6 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 4 12 0 3 1 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 5 3 1 2 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 6 12 4 7 1 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 1 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 52 blue
+R 13 red
+R 52 yellow
+R 13 green
+P 0 26 37 0.4 12 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 90 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 12 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 90 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 3 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 3 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 3 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 3 5 5 6 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 4 12 0 3 2 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 5 3 1 2 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 6 12 4 7 2 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 2 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 1 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 56 blue
+R 14 red
+R 56 yellow
+R 14 green
+P 0 26 37 0.4 10 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 90 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 10 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 90 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 4 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 4 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 4 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 3 5 5 6 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 4 12 0 3 3 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 5 3 1 2 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 6 12 4 7 3 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 3 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 2 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 1 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 60 blue
+R 15 red
+R 60 yellow
+R 10 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 90 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 85 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 5 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 5 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 5 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 4 12 0 3 4 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 5 3 1 2 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 6 12 4 7 4 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 4 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 3 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 2 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 1 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 64 blue
+R 13 red
+R 64 yellow
+R 11 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 87 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 85 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 6 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 6 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 6 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 4 12 0 3 5 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 6 12 4 7 5 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 5 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 4 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 3 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 2 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 1 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 23 1 5 6 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 68 blue
+R 14 red
+R 68 yellow
+R 12 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 87 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 85 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 7 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 7 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 7 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 4 12 0 3 6 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 6 12 4 7 6 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 6 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 5 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 4 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 3 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 2 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 23 1 5 6 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 24 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 72 blue
+R 15 red
+R 72 yellow
+R 13 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 87 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 85 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 8 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 8 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 8 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 4 12 0 3 7 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 6 12 4 7 7 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 7 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 6 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 5 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 4 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 3 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 23 1 5 6 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 24 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 1 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 76 blue
+R 16 red
+R 76 yellow
+R 14 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 87 null
+P 3 45 21 0.2 20 null
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 85 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 9 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 9 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 9 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 4 12 0 3 8 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 6 12 4 7 8 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 8 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 7 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 6 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 5 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 4 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 23 1 5 6 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 24 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 2 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 33 1 1 3 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 34 4 4 5 1 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 80 blue
+R 16 red
+R 80 yellow
+R 14 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 87 null
+P 3 45 21 0.2 19 null
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 84 null
+P 7 55 79 0.2 20 null
+F 0 20 0 3 10 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 10 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 10 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 4 12 0 3 9 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 6 12 4 7 9 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 9 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 8 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 7 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 6 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 5 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 3 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 2 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 37 1 1 3 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 38 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 39 1 5 7 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 84 blue
+R 16 red
+R 84 yellow
+R 14 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 87 null
+P 3 45 21 0.2 18 null
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 84 null
+P 7 55 79 0.2 19 null
+F 0 20 0 3 11 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 1 5 1 7 11 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 2 20 4 7 11 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 4 12 0 3 10 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 6 12 4 7 10 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 10 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 9 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 8 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 7 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 6 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 4 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 3 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 41 1 1 2 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 42 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 43 1 5 6 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 70 blue
+R 17 red
+R 69 yellow
+R 15 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 87 null
+P 3 45 21 0.2 2 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 84 null
+P 7 55 79 0.2 1 yellow
+F 1 5 1 7 12 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 4 12 0 3 11 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 6 12 4 7 11 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 7 3 5 0 11 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 10 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 9 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 8 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 7 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 5 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 4 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 41 1 1 2 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 42 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 43 1 5 6 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 44 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 45 1 1 3 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 46 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 1 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 75 blue
+R 17 red
+R 75 yellow
+R 16 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 87 null
+P 3 45 21 0.2 14 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 84 null
+P 7 55 79 0.2 15 yellow
+F 1 5 1 7 13 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 12 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 11 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 10 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 9 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 8 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 6 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 5 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 41 1 1 2 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 42 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 43 1 5 6 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 44 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 2 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 48 1 3 2 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 49 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 1 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 52 0 7 6 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 1 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 81 blue
+R 18 red
+R 81 yellow
+R 17 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 87 null
+P 3 45 21 0.2 9 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 84 null
+P 7 55 79 0.2 10 yellow
+F 1 5 1 7 14 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 13 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 12 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 11 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 10 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 9 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 7 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 6 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 41 1 1 2 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 42 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 43 1 5 6 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 44 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 3 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 48 1 3 2 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 49 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 2 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 52 0 7 6 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 2 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 54 7 3 2 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 55 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 56 1 1 3 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 57 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 58 7 7 6 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 59 1 5 6 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 86 blue
+R 17 red
+R 87 yellow
+R 17 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 86 null
+P 3 45 21 0.2 6 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 green
+P 6 43 84 0.9 83 null
+P 7 55 79 0.2 12 yellow
+F 1 5 1 7 15 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 14 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 10 8 4 5 13 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 11 2 5 2 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 12 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 11 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 10 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 8 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 7 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 4 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 48 1 3 2 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 49 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 3 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 52 0 7 6 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 3 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 54 7 3 2 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 55 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 58 7 7 6 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 59 1 5 6 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 60 4 3 2 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 1 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 92 blue
+R 18 red
+R 90 yellow
+R 15 green
+P 0 26 37 0.4 9 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 86 null
+P 3 45 21 0.2 5 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 5 yellow
+P 6 43 84 0.9 83 null
+P 7 55 79 0.2 8 yellow
+F 1 5 1 7 16 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 15 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 13 1 1 0 13 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 14 6 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 12 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 11 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 9 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 8 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 5 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 48 1 3 2 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 49 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 4 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 52 0 7 6 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 4 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 54 7 3 2 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 55 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 58 7 7 6 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 59 1 5 6 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 60 4 3 2 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 2 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 65 3 3 2 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 66 4 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 1 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 69 6 7 6 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 70 1 5 6 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 97 blue
+R 18 red
+R 97 yellow
+R 15 green
+P 0 26 37 0.4 12 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 86 null
+P 3 45 21 0.2 5 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 4 yellow
+P 6 43 84 0.9 83 null
+P 7 55 79 0.2 10 yellow
+F 1 5 1 7 17 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 16 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 14 6 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 13 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 12 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 10 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 9 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 6 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 48 1 3 2 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 49 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 5 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 52 0 7 6 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 5 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 54 7 3 2 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 55 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 58 7 7 6 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 59 1 5 6 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 60 4 3 2 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 3 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 65 3 3 2 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 66 4 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 2 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 69 6 7 6 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 70 1 5 6 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 71 2 3 2 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 1 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 74 2 5 6 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 102 blue
+R 19 red
+R 104 yellow
+R 14 green
+P 0 26 37 0.4 10 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 85 null
+P 3 45 21 0.2 5 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 yellow
+P 6 43 84 0.9 82 null
+P 7 55 79 0.2 12 yellow
+F 1 5 1 7 18 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 17 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 14 6 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 14 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 13 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 11 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 10 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 7 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 6 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 6 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 54 7 3 2 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 55 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 58 7 7 6 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 60 4 3 2 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 4 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 65 3 3 2 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 66 4 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 3 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 69 6 7 6 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 70 1 5 6 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 71 2 3 2 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 2 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 74 2 5 6 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 75 2 3 2 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 1 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 79 2 5 6 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 101 blue
+R 20 red
+R 104 yellow
+R 14 green
+P 0 26 37 0.4 14 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 78 null
+P 3 45 21 0.2 7 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 yellow
+P 6 43 84 0.9 75 null
+P 7 55 79 0.2 8 yellow
+F 1 5 1 7 19 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 18 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 8 8 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 9 2 1 5 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 14 6 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 15 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 14 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 12 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 11 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 8 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 7 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 7 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 60 4 3 2 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 5 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 65 3 3 2 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 66 4 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 4 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 69 6 7 6 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 70 1 5 6 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 71 2 3 2 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 3 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 74 2 5 6 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 75 2 3 2 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 2 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 79 2 5 6 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 1 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 82 6 7 6 1 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 83 1 5 7 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 95 blue
+R 21 red
+R 111 yellow
+R 13 green
+P 0 26 37 0.4 18 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 66 null
+P 3 45 21 0.2 9 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 yellow
+P 6 43 84 0.9 74 null
+P 7 55 79 0.2 11 yellow
+F 1 5 1 7 20 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 19 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 12 6 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 14 6 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 15 1 5 2 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 16 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 15 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 13 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 12 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 9 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 8 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 8 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 6 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 65 3 3 2 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 66 4 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 5 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 69 6 7 6 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 71 2 3 2 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 4 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 74 2 5 6 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 75 2 3 2 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 3 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 79 2 5 6 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 2 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 82 6 7 6 2 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 1 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 86 1 5 7 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 92 blue
+R 22 red
+R 104 yellow
+R 13 green
+P 0 26 37 0.4 22 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 57 null
+P 3 45 21 0.2 11 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 3 yellow
+P 6 43 84 0.9 60 null
+P 7 55 79 0.2 9 yellow
+F 1 5 1 7 21 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 20 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 16 5 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 17 1 1 5 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 18 5 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 19 1 5 0 17 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 16 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 14 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 34 4 4 5 13 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 10 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 9 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 9 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 7 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 6 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 71 2 3 2 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 5 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 75 2 3 2 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 4 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 79 2 5 6 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 3 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 82 6 7 6 3 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 2 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 1 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 1 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 1 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 90 1 5 7 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 91 blue
+R 23 red
+R 104 yellow
+R 13 green
+P 0 26 37 0.4 26 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 50 null
+P 3 45 21 0.2 13 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 7 yellow
+P 6 43 84 0.9 53 null
+P 7 55 79 0.2 12 yellow
+F 1 5 1 7 22 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 21 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 19 1 5 0 18 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 20 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 1 1 7 17 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 22 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 24 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 15 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 11 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 10 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 10 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 8 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 7 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 6 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 75 2 3 2 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 5 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 4 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 82 6 7 6 4 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 3 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 2 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 2 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 2 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 91 1 1 2 1 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 92 4 4 7 1 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 93 1 5 7 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 91 blue
+R 24 red
+R 107 yellow
+R 13 green
+P 0 26 37 0.4 30 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 44 null
+P 3 45 21 0.2 15 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 5 yellow
+P 6 43 84 0.9 49 null
+P 7 55 79 0.2 9 yellow
+F 1 5 1 7 23 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 22 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 19 1 5 0 19 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 18 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 24 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 1 1 5 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 26 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 1 5 2 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 16 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 12 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 11 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 11 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 9 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 8 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 7 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 6 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 5 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 82 6 7 6 5 6 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 4 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 3 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 3 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 3 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 91 1 1 2 2 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 92 4 4 7 2 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 1 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 1 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 1 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 97 3 5 7 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 93 blue
+R 25 red
+R 104 yellow
+R 13 green
+P 0 26 37 0.4 34 blue
+P 1 46 17 0.1 3 red
+P 2 57 16 0.9 40 null
+P 3 45 21 0.2 10 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 6 yellow
+P 6 43 84 0.9 39 null
+P 7 55 79 0.2 10 yellow
+F 1 5 1 7 24 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 23 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 19 1 5 0 20 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 19 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 28 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 1 1 5 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 30 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 31 1 5 0 17 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 13 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 12 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 12 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 10 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 9 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 8 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 7 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 6 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 5 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 4 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 4 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 4 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 91 1 1 2 3 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 92 4 4 7 3 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 2 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 2 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 2 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 98 7 3 1 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 1 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 1 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 101 4 7 5 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 92 blue
+R 23 red
+R 107 yellow
+R 13 green
+P 0 26 37 0.4 38 blue
+P 1 46 17 0.1 4 blue
+P 2 57 16 0.9 36 null
+P 3 45 21 0.2 12 blue
+P 4 74 63 0.4 9 yellow
+P 5 54 83 0.1 8 yellow
+P 6 43 84 0.9 35 null
+P 7 55 79 0.2 12 yellow
+F 1 5 1 7 25 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 24 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 19 1 5 0 21 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 20 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 31 1 5 0 18 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 32 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 35 1 5 1 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 14 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 13 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 13 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 11 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 10 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 9 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 8 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 7 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 6 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 5 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 5 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 5 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 91 1 1 2 4 5 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 92 4 4 7 4 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 3 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 3 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 3 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 2 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 2 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 1 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 1 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 105 3 5 7 1 2 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 95 blue
+R 22 red
+R 114 yellow
+R 13 green
+P 0 26 37 0.4 42 blue
+P 1 46 17 0.1 5 blue
+P 2 57 16 0.9 31 null
+P 3 45 21 0.2 14 blue
+P 4 74 63 0.4 13 yellow
+P 5 54 83 0.1 9 yellow
+P 6 43 84 0.9 35 null
+P 7 55 79 0.2 17 yellow
+F 1 5 1 7 26 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 7 3 5 0 25 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 19 1 5 0 22 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 21 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 31 1 5 0 19 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 36 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 38 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 40 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 15 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 14 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 14 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 12 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 11 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 10 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 9 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 8 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 7 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 6 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 6 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 6 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 92 4 4 7 5 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 4 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 4 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 4 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 3 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 3 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 2 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 2 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 95 blue
+R 22 red
+R 117 yellow
+R 10 green
+P 0 26 37 0.4 43 blue
+P 1 46 17 0.1 6 blue
+P 2 57 16 0.9 27 null
+P 3 45 21 0.2 16 blue
+P 4 74 63 0.4 17 yellow
+P 5 54 83 0.1 10 yellow
+P 6 43 84 0.9 31 null
+P 7 55 79 0.2 19 yellow
+F 1 5 1 7 27 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 19 1 5 0 23 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 22 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 31 1 5 0 20 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 40 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 42 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 44 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 16 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 15 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 15 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 13 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 12 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 11 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 10 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 9 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 8 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 7 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 7 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 7 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 92 4 4 7 6 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 5 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 5 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 5 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 4 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 4 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 3 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 3 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 98 blue
+R 22 red
+R 120 yellow
+R 10 green
+P 0 26 37 0.4 47 blue
+P 1 46 17 0.1 7 blue
+P 2 57 16 0.9 23 null
+P 3 45 21 0.2 18 blue
+P 4 74 63 0.4 21 yellow
+P 5 54 83 0.1 11 yellow
+P 6 43 84 0.9 27 null
+P 7 55 79 0.2 21 yellow
+F 1 5 1 7 28 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 19 1 5 0 24 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 23 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 31 1 5 0 21 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 44 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 46 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 47 1 5 3 17 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 16 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 16 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 14 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 67 1 1 0 13 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 68 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 12 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 11 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 10 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 9 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 8 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 8 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 8 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 92 4 4 7 7 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 6 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 6 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 6 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 5 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 5 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 4 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 4 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 100 blue
+R 21 red
+R 123 yellow
+R 10 green
+P 0 26 37 0.4 50 blue
+P 1 46 17 0.1 8 blue
+P 2 57 16 0.9 19 null
+P 3 45 21 0.2 20 blue
+P 4 74 63 0.4 25 yellow
+P 5 54 83 0.1 12 yellow
+P 6 43 84 0.9 23 null
+P 7 55 79 0.2 23 yellow
+F 1 5 1 7 29 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 19 1 5 0 25 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 24 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 31 1 5 0 22 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 18 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 49 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 50 1 1 4 17 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 51 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 53 1 5 3 17 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 15 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 68 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 72 1 1 0 13 14 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 12 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 11 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 10 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 9 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 9 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 9 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 92 4 4 7 8 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 7 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 7 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 7 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 6 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 6 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 5 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 5 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 101 blue
+R 20 red
+R 126 yellow
+R 9 green
+P 0 26 37 0.4 52 blue
+P 1 46 17 0.1 9 blue
+P 2 57 16 0.9 15 null
+P 3 45 21 0.2 22 blue
+P 4 74 63 0.4 29 yellow
+P 5 54 83 0.1 13 yellow
+P 6 43 84 0.9 19 null
+P 7 55 79 0.2 25 yellow
+F 1 5 1 7 30 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 9 2 1 5 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 25 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 31 1 5 0 23 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 19 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 50 1 1 4 18 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 18 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 55 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 57 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 61 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 16 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 68 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 73 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 13 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 12 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 85 4 4 7 11 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 87 1 1 7 10 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 10 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 10 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 92 4 4 7 9 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 8 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 8 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 8 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 7 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 7 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 6 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 6 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 104 blue
+R 15 red
+R 124 yellow
+R 9 green
+P 0 26 37 0.4 56 blue
+P 1 46 17 0.1 10 blue
+P 2 57 16 0.9 11 null
+P 3 45 21 0.2 24 blue
+P 4 74 63 0.4 33 yellow
+P 5 54 83 0.1 14 yellow
+P 6 43 84 0.9 15 null
+P 7 55 79 0.2 26 yellow
+F 9 2 1 5 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 26 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 31 1 5 0 24 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 20 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 50 1 1 4 19 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 19 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 61 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 62 1 1 5 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 63 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 64 1 5 3 17 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 68 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 73 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 14 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 13 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 11 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 11 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 11 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 92 4 4 7 10 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 9 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 9 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 9 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 8 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 8 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 7 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 7 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 107 blue
+R 15 red
+R 127 yellow
+R 9 green
+P 0 26 37 0.4 60 blue
+P 1 46 17 0.1 11 blue
+P 2 57 16 0.9 7 null
+P 3 45 21 0.2 26 blue
+P 4 74 63 0.4 37 yellow
+P 5 54 83 0.1 15 yellow
+P 6 43 84 0.9 11 null
+P 7 55 79 0.2 28 yellow
+F 9 2 1 5 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 27 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 31 1 5 0 25 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 21 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 50 1 1 4 20 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 20 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 18 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 66 4 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 68 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 73 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 15 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 14 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 12 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 12 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 12 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 92 4 4 7 11 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 10 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 10 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 10 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 9 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 9 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 8 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 8 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 109 blue
+R 15 red
+R 130 yellow
+R 8 green
+P 0 26 37 0.4 63 blue
+P 1 46 17 0.1 12 blue
+P 2 57 16 0.9 3 null
+P 3 45 21 0.2 28 blue
+P 4 74 63 0.4 41 yellow
+P 5 54 83 0.1 16 yellow
+P 6 43 84 0.9 7 null
+P 7 55 79 0.2 34 yellow
+F 9 2 1 5 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 28 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 22 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 50 1 1 4 21 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 21 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 19 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 73 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 76 6 0 2 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 16 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 15 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 13 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 13 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 13 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 11 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 11 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 11 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 10 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 10 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 9 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 9 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 116 blue
+R 15 red
+R 133 yellow
+R 8 green
+P 0 26 37 0.4 67 blue
+P 1 46 17 0.1 13 blue
+P 2 57 16 0.9 3 null
+P 3 45 21 0.2 30 blue
+P 4 74 63 0.4 45 yellow
+P 5 54 83 0.1 17 yellow
+P 6 43 84 0.9 3 null
+P 7 55 79 0.2 36 yellow
+F 9 2 1 5 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 11 2 5 2 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 15 1 5 2 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 29 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 23 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 50 1 1 4 22 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 22 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 20 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 76 6 0 2 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 77 1 1 7 17 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 78 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 80 1 1 6 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 16 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 14 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 14 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 14 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 12 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 12 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 12 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 11 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 11 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 10 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 10 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 122 blue
+R 13 red
+R 135 yellow
+R 6 green
+P 0 26 37 0.4 71 blue
+P 1 46 17 0.1 14 blue
+P 2 57 16 0.9 5 blue
+P 3 45 21 0.2 32 blue
+P 4 74 63 0.4 49 yellow
+P 5 54 83 0.1 16 yellow
+P 6 43 84 0.9 1 yellow
+P 7 55 79 0.2 38 yellow
+F 15 1 5 2 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 17 1 1 5 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 21 1 1 7 30 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 24 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 50 1 1 4 23 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 23 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 21 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 18 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 81 4 4 6 17 18 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 84 1 1 5 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 15 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 15 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 15 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 13 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 13 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 13 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 12 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 12 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 11 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 104 4 4 7 11 12 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 137 blue
+R 12 red
+R 150 yellow
+R 5 green
+P 0 26 37 0.4 75 blue
+P 1 46 17 0.1 15 blue
+P 2 57 16 0.9 13 blue
+P 3 45 21 0.2 34 blue
+P 4 74 63 0.4 53 yellow
+P 5 54 83 0.1 17 yellow
+P 6 43 84 0.9 14 yellow
+P 7 55 79 0.2 43 yellow
+F 17 1 1 5 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 25 1 1 5 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 25 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 50 1 1 4 24 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 24 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 22 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 19 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 16 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 16 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 16 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 14 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 14 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 14 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 13 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 13 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 12 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 153 blue
+R 11 red
+R 165 yellow
+R 5 green
+P 0 26 37 0.4 79 blue
+P 1 46 17 0.1 16 blue
+P 2 57 16 0.9 22 blue
+P 3 45 21 0.2 36 blue
+P 4 74 63 0.4 57 yellow
+P 5 54 83 0.1 17 yellow
+P 6 43 84 0.9 23 yellow
+P 7 55 79 0.2 45 yellow
+F 25 1 1 5 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 26 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 50 1 1 4 25 26 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 25 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 23 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 20 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 17 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 17 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 17 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 15 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 15 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 15 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 14 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 14 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 13 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 169 blue
+R 10 red
+R 180 yellow
+R 5 green
+P 0 26 37 0.4 83 blue
+P 1 46 17 0.1 17 blue
+P 2 57 16 0.9 31 blue
+P 3 45 21 0.2 38 blue
+P 4 74 63 0.4 60 yellow
+P 5 54 83 0.1 18 yellow
+P 6 43 84 0.9 32 yellow
+P 7 55 79 0.2 47 yellow
+F 25 1 1 5 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 27 1 5 2 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 29 1 1 5 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 27 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 26 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 24 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 21 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 18 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 18 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 18 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 16 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 16 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 16 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 15 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 15 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 14 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 184 blue
+R 9 red
+R 195 yellow
+R 4 green
+P 0 26 37 0.4 87 blue
+P 1 46 17 0.1 18 blue
+P 2 57 16 0.9 39 blue
+P 3 45 21 0.2 40 blue
+P 4 74 63 0.4 64 yellow
+P 5 54 83 0.1 18 yellow
+P 6 43 84 0.9 41 yellow
+P 7 55 79 0.2 49 yellow
+F 29 1 1 5 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 35 1 5 1 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 28 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 27 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 25 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 22 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 19 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 19 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 19 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 17 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 17 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 17 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 16 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 16 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 15 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 200 blue
+R 8 red
+R 210 yellow
+R 4 green
+P 0 26 37 0.4 91 blue
+P 1 46 17 0.1 19 blue
+P 2 57 16 0.9 48 blue
+P 3 45 21 0.2 42 blue
+P 4 74 63 0.4 68 yellow
+P 5 54 83 0.1 18 yellow
+P 6 43 84 0.9 50 yellow
+P 7 55 79 0.2 51 yellow
+F 35 1 5 1 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 47 1 5 3 29 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 28 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 26 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 23 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 20 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 20 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 20 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 18 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 18 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 18 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 17 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 17 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 16 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 215 blue
+R 8 red
+R 226 yellow
+R 3 green
+P 0 26 37 0.4 95 blue
+P 1 46 17 0.1 19 blue
+P 2 57 16 0.9 57 blue
+P 3 45 21 0.2 44 blue
+P 4 74 63 0.4 72 yellow
+P 5 54 83 0.1 19 yellow
+P 6 43 84 0.9 59 yellow
+P 7 55 79 0.2 53 yellow
+F 47 1 5 3 30 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 53 1 5 3 29 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 27 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 24 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 21 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 21 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 21 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 19 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 19 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 19 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 18 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 18 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 17 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 230 blue
+R 8 red
+R 242 yellow
+R 2 green
+P 0 26 37 0.4 99 blue
+P 1 46 17 0.1 20 blue
+P 2 57 16 0.9 66 blue
+P 3 45 21 0.2 45 blue
+P 4 74 63 0.4 76 yellow
+P 5 54 83 0.1 20 yellow
+P 6 43 84 0.9 68 yellow
+P 7 55 79 0.2 55 yellow
+F 53 1 5 3 30 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 62 1 1 5 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 28 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 25 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 22 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 22 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 22 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 20 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 20 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 20 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 19 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 19 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 18 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 245 blue
+R 8 red
+R 258 yellow
+R 1 green
+P 0 26 37 0.4 103 blue
+P 1 46 17 0.1 21 blue
+P 2 57 16 0.9 75 blue
+P 3 45 21 0.2 46 blue
+P 4 74 63 0.4 80 yellow
+P 5 54 83 0.1 21 yellow
+P 6 43 84 0.9 77 yellow
+P 7 55 79 0.2 57 yellow
+F 62 1 1 5 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 29 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 26 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 23 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 88 4 4 2 23 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 89 5 7 0 23 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 21 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 21 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 21 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 20 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 20 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 19 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 265 blue
+R 8 red
+R 270 yellow
+R 1 green
+P 0 26 37 0.4 107 blue
+P 1 46 17 0.1 22 blue
+P 2 57 16 0.9 88 blue
+P 3 45 21 0.2 48 blue
+P 4 74 63 0.4 84 yellow
+P 5 54 83 0.1 22 yellow
+P 6 43 84 0.9 86 yellow
+P 7 55 79 0.2 59 yellow
+F 62 1 1 5 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 64 1 5 3 30 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 27 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 24 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 89 5 7 0 24 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 94 1 1 6 22 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 22 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 22 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 21 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 21 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 20 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 285 blue
+R 8 red
+R 281 yellow
+R 0 green
+P 0 26 37 0.4 116 blue
+P 1 46 17 0.1 23 blue
+P 2 57 16 0.9 97 blue
+P 3 45 21 0.2 49 blue
+P 4 74 63 0.4 88 yellow
+P 5 54 83 0.1 23 yellow
+P 6 43 84 0.9 95 yellow
+P 7 55 79 0.2 61 yellow
+F 62 1 1 5 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 28 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 25 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 94 1 1 6 23 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 95 4 4 2 23 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 96 6 7 0 23 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 22 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 22 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 21 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+L ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170 out_of_ships
+R 305 blue
+R 8 red
+R 293 yellow
+R 0 green
+P 0 26 37 0.4 120 blue
+P 1 46 17 0.1 24 blue
+P 2 57 16 0.9 110 blue
+P 3 45 21 0.2 51 blue
+P 4 74 63 0.4 92 yellow
+P 5 54 83 0.1 24 yellow
+P 6 43 84 0.9 104 yellow
+P 7 55 79 0.2 63 yellow
+F 62 1 1 5 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 77 1 1 7 29 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 26 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 94 1 1 6 24 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 96 6 7 0 24 25 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 99 1 1 7 23 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 100 4 4 2 23 24 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 103 1 1 7 22 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 331 blue
+R 7 red
+R 298 yellow
+R 0 green
+P 0 26 37 0.4 130 blue
+P 1 46 17 0.1 25 blue
+P 2 57 16 0.9 123 blue
+P 3 45 21 0.2 53 blue
+P 4 74 63 0.4 96 yellow
+P 5 54 83 0.1 24 yellow
+P 6 43 84 0.9 113 yellow
+P 7 55 79 0.2 65 yellow
+F 77 1 1 7 30 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 80 1 1 6 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 27 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 94 1 1 6 25 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 99 1 1 7 24 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 103 1 1 7 23 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 347 blue
+R 6 red
+R 313 yellow
+R 0 green
+P 0 26 37 0.4 134 blue
+P 1 46 17 0.1 26 blue
+P 2 57 16 0.9 132 blue
+P 3 45 21 0.2 55 blue
+P 4 74 63 0.4 100 yellow
+P 5 54 83 0.1 25 yellow
+P 6 43 84 0.9 122 yellow
+P 7 55 79 0.2 66 yellow
+F 80 1 1 6 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 28 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 94 1 1 6 26 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 99 1 1 7 25 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 103 1 1 7 24 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 363 blue
+R 6 red
+R 329 yellow
+R 0 green
+P 0 26 37 0.4 138 blue
+P 1 46 17 0.1 27 blue
+P 2 57 16 0.9 141 blue
+P 3 45 21 0.2 57 blue
+P 4 74 63 0.4 104 yellow
+P 5 54 83 0.1 26 yellow
+P 6 43 84 0.9 131 yellow
+P 7 55 79 0.2 68 yellow
+F 80 1 1 6 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 29 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 94 1 1 6 27 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 99 1 1 7 26 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 103 1 1 7 25 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 379 blue
+R 6 red
+R 345 yellow
+R 0 green
+P 0 26 37 0.4 142 blue
+P 1 46 17 0.1 28 blue
+P 2 57 16 0.9 150 blue
+P 3 45 21 0.2 59 blue
+P 4 74 63 0.4 108 yellow
+P 5 54 83 0.1 27 yellow
+P 6 43 84 0.9 140 yellow
+P 7 55 79 0.2 70 yellow
+F 80 1 1 6 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 84 1 1 5 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 87 1 1 7 30 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 94 1 1 6 28 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 99 1 1 7 27 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 103 1 1 7 26 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 395 blue
+R 4 red
+R 359 yellow
+R 0 green
+P 0 26 37 0.4 146 blue
+P 1 46 17 0.1 29 blue
+P 2 57 16 0.9 159 blue
+P 3 45 21 0.2 61 blue
+P 4 74 63 0.4 112 yellow
+P 5 54 83 0.1 28 yellow
+P 6 43 84 0.9 148 yellow
+P 7 55 79 0.2 71 yellow
+F 84 1 1 5 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 94 1 1 6 29 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 99 1 1 7 28 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 103 1 1 7 27 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 411 blue
+R 3 red
+R 374 yellow
+R 0 green
+P 0 26 37 0.4 150 blue
+P 1 46 17 0.1 30 blue
+P 2 57 16 0.9 168 blue
+P 3 45 21 0.2 63 blue
+P 4 74 63 0.4 116 yellow
+P 5 54 83 0.1 28 yellow
+P 6 43 84 0.9 157 yellow
+P 7 55 79 0.2 73 yellow
+F 94 1 1 6 30 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 99 1 1 7 29 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 103 1 1 7 28 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 427 blue
+R 3 red
+R 390 yellow
+R 0 green
+P 0 26 37 0.4 154 blue
+P 1 46 17 0.1 31 blue
+P 2 57 16 0.9 177 blue
+P 3 45 21 0.2 65 blue
+P 4 74 63 0.4 120 yellow
+P 5 54 83 0.1 29 yellow
+P 6 43 84 0.9 166 yellow
+P 7 55 79 0.2 75 yellow
+F 94 1 1 6 31 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 99 1 1 7 30 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 103 1 1 7 29 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 443 blue
+R 2 red
+R 405 yellow
+R 0 green
+P 0 26 37 0.4 158 blue
+P 1 46 17 0.1 32 blue
+P 2 57 16 0.9 186 blue
+P 3 45 21 0.2 67 blue
+P 4 74 63 0.4 124 yellow
+P 5 54 83 0.1 30 yellow
+P 6 43 84 0.9 175 yellow
+P 7 55 79 0.2 76 yellow
+F 94 1 1 6 32 33 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+F 103 1 1 7 30 31 ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+R 459 blue
+R 0 red
+R 419 yellow
+R 0 green
+P 0 26 37 0.4 162 blue
+P 1 46 17 0.1 33 blue
+P 2 57 16 0.9 195 blue
+P 3 45 21 0.2 69 blue
+P 4 74 63 0.4 128 yellow
+P 5 54 83 0.1 31 yellow
+P 6 43 84 0.9 183 yellow
+P 7 55 79 0.2 77 yellow
+L ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170 out_of_ships
+R 475 blue
+R 0 red
+R 435 yellow
+R 0 green
+P 0 26 37 0.4 166 blue
+P 1 46 17 0.1 34 blue
+P 2 57 16 0.9 204 blue
+P 3 45 21 0.2 71 blue
+P 4 74 63 0.4 132 yellow
+P 5 54 83 0.1 32 yellow
+P 6 43 84 0.9 192 yellow
+P 7 55 79 0.2 79 yellow
+STAT: ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+turnsPlayed: 1000
+winner: true
+fleetGenerated: 127
+fleetLost: 104
+fleetReinforced: 12
+largestAttack: 20
+largestLoss: 18
+largestReinforcement: 12
+planetsLost: 0
+planetsConquered: 3
+planetsDefended: 14
+planetsAttacked: 23
+numFleetLost: 20
+numFleetReinforced: 1
+numFleetGenerated: 24
+totalTroopsGenerated: 532
+
+STAT: ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+turnsPlayed: 55
+winner: false
+fleetGenerated: 32
+fleetLost: 32
+fleetReinforced: 0
+largestAttack: 5
+largestLoss: 5
+largestReinforcement: 0
+planetsLost: 1
+planetsConquered: 0
+planetsDefended: 0
+planetsAttacked: 25
+numFleetLost: 25
+numFleetReinforced: 0
+numFleetGenerated: 25
+totalTroopsGenerated: 25
+
+STAT: ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+turnsPlayed: 1000
+winner: true
+fleetGenerated: 181
+fleetLost: 103
+fleetReinforced: 71
+largestAttack: 20
+largestLoss: 19
+largestReinforcement: 12
+planetsLost: 0
+planetsConquered: 3
+planetsDefended: 15
+planetsAttacked: 22
+numFleetLost: 19
+numFleetReinforced: 19
+numFleetGenerated: 41
+totalTroopsGenerated: 541
+
+STAT: ./resources/matches/e379ba64-cb65-4658-b070-f197ad8cc0eb/7ccceec5-3c6c-452e-9e77-e236fe8e8170
+turnsPlayed: 45
+winner: false
+fleetGenerated: 23
+fleetLost: 23
+fleetReinforced: 0
+largestAttack: 5
+largestLoss: 5
+largestReinforcement: 0
+planetsLost: 1
+planetsConquered: 0
+planetsDefended: 0
+planetsAttacked: 16
+numFleetLost: 16
+numFleetReinforced: 0
+numFleetGenerated: 16
+totalTroopsGenerated: 16

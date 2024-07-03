@@ -1,0 +1,69 @@
+game_data.txt
+U 200 200
+C ./resources/matches/4cfa139c-107e-440c-8300-492f65cd90fa/4c584491-acf3-47d9-80b2-4a0591c243a1 blue 0
+C ./resources/matches/4cfa139c-107e-440c-8300-492f65cd90fa/e0f521fc-885d-43e2-b37f-e2c64df2fbce red 1
+C ./resources/matches/4cfa139c-107e-440c-8300-492f65cd90fa/4c584491-acf3-47d9-80b2-4a0591c243a1 yellow 0
+C ./resources/matches/4cfa139c-107e-440c-8300-492f65cd90fa/e0f521fc-885d-43e2-b37f-e2c64df2fbce green 1
+P 0 93 43 0.1 10 blue
+P 1 74 96 0.8 80 yellow
+P 2 52 38 1.0 100 null
+P 3 39 85 0.4 40 null
+P 4 45 75 0.5 50 null
+P 5 84 79 0.7 70 null
+P 6 84 85 0.3 30 null
+P 7 39 49 0.8 80 null
+P 8 34 53 0.7 70 null
+P 9 47 91 1.0 100 null
+P 10 76 38 0.6 60 null
+P 11 35 39 1.0 100 null
+P 12 32 46 0.9 90 null
+P 13 25 25 0.5 50 null
+P 14 107 157 0.1 10 red
+P 15 126 104 0.8 80 green
+P 16 148 162 1.0 100 null
+P 17 161 115 0.4 40 null
+P 18 155 125 0.5 50 null
+P 19 116 121 0.7 70 null
+P 20 116 115 0.3 30 null
+P 21 161 151 0.8 80 null
+P 22 166 147 0.7 70 null
+P 23 153 109 1.0 100 null
+P 24 124 162 0.6 60 null
+P 25 165 161 1.0 100 null
+P 26 168 154 0.9 90 null
+P 27 175 175 0.5 50 null
+./resources/matches/4cfa139c-107e-440c-8300-492f65cd90fa/e0f521fc-885d-43e2-b37f-e2c64df2fbce>L exit
+L ./resources/matches/4cfa139c-107e-440c-8300-492f65cd90fa/e0f521fc-885d-43e2-b37f-e2c64df2fbce Player sent:L exit
+R 11 blue
+R 0 red
+R 88 yellow
+R 88 green
+P 0 93 43 0.1 6 blue
+P 1 74 96 0.8 88 yellow
+P 2 52 38 1.0 100 null
+P 3 39 85 0.4 40 null
+P 4 45 75 0.5 50 null
+P 5 84 79 0.7 70 null
+P 6 84 85 0.3 30 null
+P 7 39 49 0.8 80 null
+P 8 34 53 0.7 70 null
+P 9 47 91 1.0 100 null
+P 10 76 38 0.6 60 null
+P 11 35 39 1.0 100 null
+P 12 32 46 0.9 90 null
+P 13 25 25 0.5 50 null
+P 14 107 157 0.1 10 null
+P 15 126 104 0.8 88 green
+P 16 148 162 1.0 100 null
+P 17 161 115 0.4 40 null
+P 18 155 125 0.5 50 null
+P 19 116 121 0.7 70 null
+P 20 116 115 0.3 30 null
+P 21 161 151 0.8 80 null
+P 22 166 147 0.7 70 null
+P 23 153 109 1.0 100 null
+P 24 124 162 0.6 60 null
+P 25 165 161 1.0 100 null
+P 26 168 154 0.9 90 null
+P 27 175 175 0.5 50 null
+F 0 5 0 14 1 57 blue
