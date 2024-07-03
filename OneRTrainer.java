@@ -1,5 +1,3 @@
-import java.io.File;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -28,6 +26,19 @@ public class OneRTrainer{
     }
     class GameData { //vsi podatki igre, kasneje bom ekstra extends za ostale atribute
         boolean isWinner;
+    }
+      public void loadPastGameData(String filename) throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader(filename));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] tokens = line.split(",");
+            int numPlanets = Integer.parseInt(tokens[0]);
+            int numFleets = Integer.parseInt(tokens[1]);
+            int totalArmySize = Integer.parseInt(tokens[2]);
+            String action = tokens[3];
+            pastGameStates.add(new GameState(numPlanets, numFleets, totalArmySize, action));
+        }
+        reader.close();
     }
 
     class PlanetData extends GameData {
