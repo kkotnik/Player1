@@ -1,0 +1,33 @@
+U 200 200 yellow
+P 0 102 87 0.1 10 green
+P 1 50 101 0.2 20 yellow
+P 2 93 22 0.3 30 null
+P 3 78 27 0.5 50 null
+P 4 76 123 0.9 90 null
+P 5 21 171 1.0 100 null
+P 6 66 55 0.3 30 null
+P 7 98 33 0.1 10 null
+P 8 28 115 0.9 90 null
+P 9 18 52 0.1 10 null
+P 10 140 32 0.1 10 null
+P 11 30 154 0.8 80 null
+P 12 29 94 0.3 30 null
+P 13 96 69 0.8 80 null
+P 14 184 15 0.2 20 null
+P 15 98 113 0.1 10 blue
+P 16 150 99 0.2 20 cyan
+P 17 107 178 0.3 30 null
+P 18 122 173 0.5 50 null
+P 19 124 77 0.9 90 null
+P 20 179 29 1.0 100 null
+P 21 134 145 0.3 30 null
+P 22 102 167 0.1 10 null
+P 23 172 85 0.9 90 null
+P 24 182 148 0.1 10 null
+P 25 60 168 0.1 10 null
+P 26 170 46 0.8 80 null
+P 27 171 106 0.3 30 null
+P 28 104 131 0.8 80 null
+P 29 16 185 0.2 20 null
+ERROR: 
+Cannot invoke "String.equals(Object)" because the return value of "java.io.BufferedReader.readLine()" is null
