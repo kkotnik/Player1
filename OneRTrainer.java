@@ -1,21 +1,13 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Random;
 import java.io.*;
+import java.util.*;
 
-public class OneRTrainer{
-    private Random rand;
+public class OneRTrainer {
 
     public static void main(String[] args) throws IOException {
         //podatki iger
         String folderPath = "C:\\Users\\krist\\Desktop\\2024-01-10\\Player1\\games";
-
         //prazen list kamer se bo shranila data
-        //GameData bom ze pol naredu
         List<GameData> allGameDataList = new ArrayList<>();
-        
         
         File folder = new File(folderPath);
         File[] files = folder.listFiles();
@@ -29,14 +21,15 @@ public class OneRTrainer{
                 }
             }
         }
-
+        
         //kam se shrani in kaj napise tocno
         OneRModel model = trainOneR(allGameDataList);
         String outputPath = folderPath + "\\best_attributes.txt";
         saveModel(model, outputPath);
         System.out.println("Best Attribute: " + model.bestAttribute + ", Best Threshold: " + model.bestThreshold);
     }
-        public static List<GameData> readGameData(String fileName) throws IOException {
+
+    public static List<GameData> readGameData(String fileName) throws IOException {
         //inicializacija game data in buffered reader
         List<GameData> gameDataList = new ArrayList<>();
         BufferedReader br = new BufferedReader(new FileReader(fileName));
@@ -73,6 +66,36 @@ public class OneRTrainer{
         br.close();
         return gameDataList;
     }
+
+    public static OneRModel trainOneR(List<GameData> gameDataList) {
+        //inicializacija 
+        String[] attributes = {"NumPlanets", "NumFleets", "PlanetColor"};
+        double bestAccuracy = 0;
+        String bestAttribute = null;
+        int bestThreshold = 0;
+
+        //vsak unikaten threshold se shrani
+        for (String attribute : attributes) {
+            TreeSet<Integer> thresholds = new TreeSet<>();
+            for (GameData data : gameDataList) {
+                //thresholdu doda vrednost
+                thresholds.add(getAttributeValue(data, attribute));
+            }
+
+            //classic min max scena, zamenjaj ce je boljsi accuracy/threshold/attribute
+            for (int threshold : thresholds) {
+                double accuracy = calculateAccuracy(gameDataList, attribute, threshold);
+                if (accuracy > bestAccuracy) {
+                    bestAccuracy = accuracy;
+                    bestAttribute = attribute;
+                    bestThreshold = threshold;
+                }
+            }
+        }
+
+        return new OneRModel(bestAttribute, bestThreshold);
+    }
+
     private static int getAttributeValue(GameData data, String attribute) {
         //gledamo za pravilen tip
         if (data instanceof PlanetData) {
@@ -90,29 +113,63 @@ public class OneRTrainer{
         }
         return 0;
     }
-    class GameData { //vsi podatki igre, kasneje bom ekstra extends za ostale atribute
-        boolean isWinner;
-    }
-    
 
-    class PlanetData extends GameData {
-        //drugi atributi
-            int id;
-            int x;
-            int y;
-            double size;
-            int value;
-            String color;
-        
-            PlanetData(int id, int x, int y, double size, int value, String color, boolean isWinner) {
-                this.id = id;
-                this.x = x;
-                this.y = y;
-                this.size = size;
-                this.value = value;
-                this.color = color;
-                this.isWinner = isWinner;
+    private static double calculateAccuracy(List<GameData> gameDataList, String attribute, int threshold) {
+        int correct = 0; //counter
+        for (GameData data : gameDataList) {
+            int value = getAttributeValue(data, attribute);
+            //kalkulacija natancnosti
+            boolean predictedWin = value >= threshold;
+            if (data instanceof PlanetData) {
+                PlanetData planetData = (PlanetData) data;
+                if (predictedWin == planetData.isWinner) {
+                    correct++;
+                }
             }
         }
-        
+        return (double) correct / gameDataList.size();
+    }
+
+    public static void saveModel(OneRModel model, String fileName) throws IOException {
+        BufferedWriter writer = new BufferedWriter(new FileWriter(fileName, false)); //zapis file
+        //false da se prepise
+        writer.write("Best Attribute: " + model.bestAttribute);
+        writer.newLine();
+        writer.write("Best Threshold: " + model.bestThreshold);
+        writer.close();
+    }
+}
+
+class GameData { //vsi podatki igre, kasneje bom ekstra extends za ostale atribute
+    boolean isWinner;
+}
+
+class PlanetData extends GameData {
+//drugi atributi
+    int id;
+    int x;
+    int y;
+    double size;
+    int value;
+    String color;
+
+    PlanetData(int id, int x, int y, double size, int value, String color, boolean isWinner) {
+        this.id = id;
+        this.x = x;
+        this.y = y;
+        this.size = size;
+        this.value = value;
+        this.color = color;
+        this.isWinner = isWinner;
+    }
+}
+
+class OneRModel {
+    String bestAttribute;
+    int bestThreshold;
+
+    OneRModel(String bestAttribute, int bestThreshold) {
+        this.bestAttribute = bestAttribute;
+        this.bestThreshold = bestThreshold;
+    }
 }
