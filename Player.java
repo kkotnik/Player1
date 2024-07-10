@@ -1,158 +1,135 @@
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.Random;
 
 public class Player {
-	static BufferedWriter fileOut = null;
-	
-	/*
-		GAME DATA
-	*/
-	public static int universeWidth;
-	public static int universeHeight;
-	public static String myColor;
-	
-	public static String[] bluePlanets;
-	public static String[] cyanPlanets;
-	public static String[] greenPlanets;
-	public static String[] yellowPlanets;
-	public static String[] neutralPlanets;
+    static BufferedWriter fileOut = null; //spr za pisanje v datoteko
 
-	public static String[] blueFleets;
-	public static String[] cyanFleets;
-	public static String[] greenFleets;
-	public static String[] yellowFleets;
+    /*
+        GAME DATA
+    */
+    public static int universeWidth; //sirina vesolja
+    public static int universeHeight; // visina vesolja
+    public static String myColor; //barva igralca
 
+
+//seznam planetov izbranih barv
+    public static String[] bluePlanets;
+    public static String[] cyanPlanets;
+    public static String[] greenPlanets;
+    public static String[] yellowPlanets;
+    public static String[] neutralPlanets;
+
+//seznam fleetov dolocenih barv
+    public static String[] blueFleets;
+    public static String[] cyanFleets;
+    public static String[] greenFleets;
+    public static String[] yellowFleets;
+
+    private static String bestAttribute; //najboljsi atribut
+    private static double bestThreshold; //najboljsi prag
 
 	public static void main(String[] args) throws Exception {
+        String filePath = "best_attributes.txt"; // pot do datoteke z best attributes
 
 		try {
-			Random rand = new Random(); // source of random for random moves
+            Random rand = new Random(); // random poteze
 
-			/*
-				**************
-				Main game loop
-				**************
-			  	- each iteration of the loop is one turn.
-			  	- this will loop until we stop playing the game
-			  	- we will be stopped if we die/win or if we crash
-			*/
-			while (true) {
-				/*
-					- at the start of turn we first recieve data
-					about the universe from the game.
-					- data will be loaded into the static variables of
-					this class
-				*/
-				getGameState();
+            
+              //  vsak loop while  je nekdo na vrsti.
+              //game over stop while
+            
+            while (true) {
+            
+                // podatki vesolja -igra
+                
+                getGameState();
 
-				/*
-				 	*********************************
-					LOGIC: figure out what to do with
-					your turn
-					*********************************
-					- current plan: attack randomly
-				*/
+                
 
-				String[] myPlanets = new String[0];
-				String targetPlayer = "";
+                String[] myPlanets = new String[0]; //moji planeti  - zacetna vr 0
+                String[] myFleets = new String[0];  //fleets - zacetna vr 0
+                String targetPlayer = ""; //ciljaj igralca - 0
 
-				/*
-					- get my planets based on my color
-					- select a random other color as the target player 
-				*/
-				if (myColor.equals("blue")) {
-					myPlanets = bluePlanets;
-					String[] potentialTargets = {"cyan", "green", "yellow", "neutral"};
-					targetPlayer = potentialTargets[rand.nextInt(4)];
-				} 
+                //pridobi moje planete izbrane barve in napadaj druge
 
-				if (myColor.equals("cyan")) {
-					myPlanets = cyanPlanets;
-					String[] potentialTargets = {"blue", "green", "yellow", "neutral"};
-					targetPlayer = potentialTargets[rand.nextInt(4)];
-				} 
+                if (myColor.equals("blue")) {
+                    myPlanets = bluePlanets; //nastavi myplanets na modre planete
+                    myFleets = blueFleets;//tudi fleets modri
+                    String[] potentialTargets = {"cyan", "green", "yellow", "neutral"}; //napadi naslednje barve
+                    targetPlayer = potentialTargets[rand.nextInt(4)]; //izberi random cilj
+                } else if (myColor.equals("cyan")) {
+                    myPlanets = cyanPlanets;
+                    myFleets = cyanFleets;
+                    String[] potentialTargets = {"blue", "green", "yellow", "neutral"};
+                    targetPlayer = potentialTargets[rand.nextInt(4)];
+                } else if (myColor.equals("green")) {
+                    myPlanets = greenPlanets;
+                    myFleets = greenFleets;
+                    String[] potentialTargets = {"cyan", "blue", "yellow", "neutral"};
+                    targetPlayer = potentialTargets[rand.nextInt(4)];
+                } else if (myColor.equals("yellow")) {
+                    myPlanets = yellowPlanets;
+                    myFleets = yellowFleets;
+                    String[] potentialTargets = {"cyan", "green", "blue", "neutral"};
+                    targetPlayer = potentialTargets[rand.nextInt(4)];
+                }
 
-				if (myColor.equals("green")) {
-					myPlanets = greenPlanets;
-					String[] potentialTargets = {"cyan", "blue", "yellow", "neutral"};
-					targetPlayer = potentialTargets[rand.nextInt(4)];
-				} 
-				
-				if (myColor.equals("yellow")) {
-					myPlanets = yellowPlanets;
-					String[] potentialTargets = {"cyan", "green", "blue", "neutral"};
-					targetPlayer = potentialTargets[rand.nextInt(4)];
-				}
+                /*
+                    glede na izbrano barvo kot cilj najdi planete igralca
+                */
+                String[] targetPlayerPlanets = new String[0];
+                switch (targetPlayer) {
+                    case "blue":
+                        targetPlayerPlanets = bluePlanets; //cilj modri planeti
+                        break;
+                    case "cyan":
+                        targetPlayerPlanets = cyanPlanets;
+                        break;
+                    case "green":
+                        targetPlayerPlanets = greenPlanets;
+                        break;
+                    case "yellow":
+                        targetPlayerPlanets = yellowPlanets;
+                        break;
+                    case "neutral":
+                        targetPlayerPlanets = neutralPlanets;
+                        break;
+                }
 
-				/*
-					- based on the color selected as the target,
-					find the planets of the targeted player
-				*/
-				String[] targetPlayerPlanets = new String[0];
-				if (targetPlayer.equals("blue")) {
-					targetPlayerPlanets = bluePlanets;
-				}
+                /*
+                    ce targetplayer ima planete
+                    jaz imam planete..napadem random planet
+                */
+                if (targetPlayerPlanets.length > 0 && myPlanets.length > 0) {
+                    for (String myPlanet : myPlanets) {
+                        int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); //random indeks ciljnega planeta
+                        String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; ///pridobi ta planet
+                        
+                        System.out.println("A " + myPlanet + " " + randomTargetPlanet); //izvedi napad
+                    }
+                }
 
-				if (targetPlayer.equals("cyan")) {
-					targetPlayerPlanets = cyanPlanets;
-				}
+                
+                System.out.println("M Hello");
 
-				if (targetPlayer.equals("green")) {
-					targetPlayerPlanets = greenPlanets;
-				}
+                
+                System.out.println("E"); //koncaj potezo
 
-				if (targetPlayer.equals("yellow")) {
-					targetPlayerPlanets = yellowPlanets;
-				}
-
-				if (targetPlayer.equals("neutral")) {
-					targetPlayerPlanets = neutralPlanets;
-				}
-				/*
-					- if the target player has any planets
-					and if i have any planets (we could only have 
-					fleets) attack a random planet of the target 
-					from each of my planets
-				*/
-				if (targetPlayerPlanets.length > 0 && myPlanets.length > 0) {
-					for (int i = 0 ; i < myPlanets.length ; i++) {
-						String myPlanet = myPlanets[i];
-						int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length);
-						String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex];
-						/*
-							- printing the attack will tell the game to attack
-							- be carefull to only use System.out.println for printing game commands
-							- for debugging you can use logToFile() method
-						*/
-						System.out.println("A " + myPlanet + " " + randomTargetPlanet);
-					}
-				}
-				
-				/*
-					- send a hello message to your teammate bot :)
-					- it will recieve it form the game next turn (if the bot parses it)
-				 */
-				System.out.println("M Hello");
-
-				/*
-				  	- E will end my turn. 
-				  	- you should end each turn (if you don't the game will think you timed-out)
-				  	- after E you should send no more commands to the game
-				 */
-				System.out.println("E");
 			}
 		} catch (Exception e) {
-			logToFile("ERROR: ");
-			logToFile(e.getMessage());
-			e.printStackTrace();
-		}
-		fileOut.close();
-		
-	}
+            logToFile("ERROR: " + e.getMessage()); //izpisi napako v datoteko
+            e.printStackTrace(); //izpisi sled
+        } finally {
+            if (fileOut != null) {
+                fileOut.close(); //zapri datoteko ce je odprta
+            }
+        }
+    }
 
 
 	/**
