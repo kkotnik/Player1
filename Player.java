@@ -120,6 +120,35 @@ public class Player {
                 
                 System.out.println("E"); //koncaj potezo
 
+				// Implementacija logike glede na bestAttribute in bestThreshold
+                if (bestAttribute != null) {
+                    switch (bestAttribute) {
+                        case "NumPlanets":
+                            // logika glede na št planetov
+                            if (myPlanets.length >= bestThreshold) {
+                                // izvedi igro glede na prag
+                                attackBasedOnNumPlanets(myPlanets, targetPlayerPlanets, rand);
+                            }
+                            break;
+                        case "NumFleets":
+                            // Logika st float
+                            if (myFleets.length >= bestThreshold) {
+                                // igra glede na prag
+                                attackBasedOnNumFleets(myPlanets, targetPlayerPlanets, rand);
+                            }
+                            break;
+                        case "PlanetColor":
+                            // Logika glede barve planetov
+                            if (myColor.equals("blue") && bestThreshold > 0.5) {
+                                
+                                attackBasedOnPlanetColor(myPlanets, targetPlayerPlanets, rand);
+                            }
+                            break;
+                        default:
+                            // ostalo
+                            break;
+                    }
+                }
 			}
 		} catch (Exception e) {
             logToFile("ERROR: " + e.getMessage()); //izpisi napako v datoteko
@@ -258,5 +287,16 @@ public class Player {
 		cyanFleets = cyanFleetsList.toArray(new String[0]);
 		greenFleets = greenFleetsList.toArray(new String[0]);
 		yellowFleets = yellowFleetsList.toArray(new String[0]);
+	}
+
+	//Izvedi potek napada glede na st planetov
+    private static void attackBasedOnNumPlanets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
+	}
+
+	 //Izvedi potek napada glede na st fleets
+	 private static void attackBasedOnNumFleets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
+	 }
+	//Izvedi potek napada glede na barvo planeta
+    private static void attackBasedOnPlanetColor(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
 	}
 }
