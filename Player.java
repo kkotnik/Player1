@@ -195,99 +195,107 @@ public class Player {
 	 * @throws IOException if an I/O error occurs while reading input.
 	 */
 	public static void getGameState() throws NumberFormatException, IOException {
-		BufferedReader stdin = new BufferedReader(
-			new java.io.InputStreamReader(System.in)
-		); 
-		/*
-			- this is where we will store the data recieved from the game,
-			- Since we don't know how many planets/fleets each player will 
-			have, we are using lists.
-		*/ 
-		LinkedList<String> bluePlanetsList = new LinkedList<>();
-		LinkedList<String> cyanPlanetsList = new LinkedList<>();
-		LinkedList<String> greenPlanetsList = new LinkedList<>();
-		LinkedList<String> yellowPlanetsList = new LinkedList<>();
-		LinkedList<String> neutralPlanetsList = new LinkedList<>();
+        BufferedReader stdin = new BufferedReader(
+            new java.io.InputStreamReader(System.in)
+        );
+        /*
+            shranimo podatke, prejete iz igre
+            uporabljamo seznamo ker nevemo st planetov/fleet
+        */
+        LinkedList<String> bluePlanetsList = new LinkedList<>();
+        LinkedList<String> cyanPlanetsList = new LinkedList<>();
+        LinkedList<String> greenPlanetsList = new LinkedList<>();
+        LinkedList<String> yellowPlanetsList = new LinkedList<>();
+        LinkedList<String> neutralPlanetsList = new LinkedList<>();
 
-		LinkedList<String> blueFleetsList = new LinkedList<>();
-		LinkedList<String> cyanFleetsList = new LinkedList<>();
-		LinkedList<String> greenFleetsList = new LinkedList<>();
-		LinkedList<String> yellowFleetsList = new LinkedList<>();
+        LinkedList<String> blueFleetsList = new LinkedList<>();
+        LinkedList<String> cyanFleetsList = new LinkedList<>();
+        LinkedList<String> greenFleetsList = new LinkedList<>();
+        LinkedList<String> yellowFleetsList = new LinkedList<>();
 
-		
-		/*
-			********************************
-			read the input from the game and
-			parse it (get data from the game)
-			********************************
-			- game is telling us about the state of the game (who ows planets
-			and what fleets/attacks are on their way). 
-			- The game will give us data line by line. 
-			- When the game only gives us "S", this is a sign
-			that it is our turn and we can start calculating out turn.
-			- NOTE: some things like parsing of fleets(attacks) is not implemented 
-			and you should do it yourself
-		*/
-		String line = "";
-		/*
-			Loop until the game signals to start playing the turn with "S"
-		*/ 
-		while (!(line = stdin.readLine()).equals("S")) {
-			/* 
-				- save the data we recieve to the log file, so you can see what 
-				data is recieved form the game (for debugging)
-			*/ 
-			logToFile(line); 
-			
-			String[] tokens = line.split(" ");
-			char firstLetter = line.charAt(0);
-			/*
-			 	U <int> <int> <string> 						
-				- Universe: Size (x, y) of playing field, and your color
-			*/
-			if (firstLetter == 'U') {
-				universeWidth = Integer.parseInt(tokens[1]);
-				universeHeight = Integer.parseInt(tokens[2]);
-				myColor = tokens[3];
-			} 
-			/*
-				P <int> <int> <int> <float> <int> <string> 	
-				- Planet: Name (number), position x, position y, 
-				planet size, army size, planet color (blue, cyan, green, yellow or null for neutral)
-			*/
-			if (firstLetter == 'P') {
-				String plantetName = tokens[1];
-				if (tokens[6].equals("blue")) {
-					bluePlanetsList.add(plantetName);
-				} 
-				if (tokens[6].equals("cyan")) {
-					cyanPlanetsList.add(plantetName);
-				} 
-				if (tokens[6].equals("green")) {
-					greenPlanetsList.add(plantetName);
-				} 
-				if (tokens[6].equals("yellow")) {
-					yellowPlanetsList.add(plantetName);
-				} 
-				if (tokens[6].equals("null")) {
-					neutralPlanetsList.add(plantetName);
-				} 
-			} 
-		}
-		/*
-			- override data from previous turn
-			- convert the lists into fixed size arrays
-		*/ 
-		bluePlanets = bluePlanetsList.toArray(new String[0]);
-		cyanPlanets = cyanPlanetsList.toArray(new String[0]);
-		greenPlanets = greenPlanetsList.toArray(new String[0]);
-		yellowPlanets = yellowPlanetsList.toArray(new String[0]);
-		neutralPlanets = neutralPlanetsList.toArray(new String[0]);
-		blueFleets = blueFleetsList.toArray(new String[0]);
-		cyanFleets = cyanFleetsList.toArray(new String[0]);
-		greenFleets = greenFleetsList.toArray(new String[0]);
-		yellowFleets = yellowFleetsList.toArray(new String[0]);
-	}
+        
+        //preberemo vnos igre in razclenimo podatke
+        for (String line; (line = stdin.readLine()) != null; ) {
+            //prazna vrstica == konec igre
+            logToFile(line); //zapisi prejeto vrstico v datoteko za napake
+
+            String[] tokens = line.split(" ");
+            char firstLetter = line.charAt(0);
+
+            /*
+                U <int> <int> <string>
+                - Universe: Size (x, y) of playing field, and your color
+            */
+            if (firstLetter == 'U') {
+                universeWidth = Integer.parseInt(tokens[1]); //n<stavi sirino vesolja
+                universeHeight = Integer.parseInt(tokens[2]);//nastavi visino
+                myColor = tokens[3]; //nastavi barvo igralca
+            }
+            /*
+                P <int> <int> <int> <float> <int> <string>
+                - Planet: Name (number), position x, position y,
+                planet size, army size, planet color (blue, cyan, green, yellow or null for neutral)
+            */
+            else if (firstLetter == 'P') {
+                String planetName = tokens[1]; //ime planeta
+                String planetColor = tokens[6]; //barva planeta
+
+                switch (planetColor) {
+                    case "blue":
+                        bluePlanetsList.add(planetName); //dodaj planet v modri seznam
+                        break;
+                    case "cyan":
+                        cyanPlanetsList.add(planetName);
+                        break;
+                    case "green":
+                        greenPlanetsList.add(planetName);
+                        break;
+                    case "yellow":
+                        yellowPlanetsList.add(planetName);
+                        break;
+                    case "null":
+                        neutralPlanetsList.add(planetName);
+                        break;
+                }
+            }
+            /*
+                F <int> <int> <int> <string> <int> <string>
+                - Fleets: (Size of fleet, number of turns left, origianation of fleet (name of planet), destination (name of planet), is this my fleet or the enemies)
+            */
+            else if (firstLetter == 'F') {
+                String fleetOwner = tokens[5]; //owner fleet
+                String fleetDestination = tokens[4]; //cilj fleet
+
+                switch (fleetOwner) {
+                    case "blue":
+                        blueFleetsList.add(fleetDestination); //dodaj cilj floate v moder seznam
+                        break;
+                    case "cyan":
+                        cyanFleetsList.add(fleetDestination);
+                        break;
+                    case "green":
+                        greenFleetsList.add(fleetDestination);
+                        break;
+                    case "yellow":
+                        yellowFleetsList.add(fleetDestination);
+                        break;
+                }
+            }
+        }
+
+        /*
+           prepisi podatke iz prejsnje poteze, seznam v koncno velikost
+        */
+        bluePlanets = bluePlanetsList.toArray(new String[0]);
+        cyanPlanets = cyanPlanetsList.toArray(new String[0]);
+        greenPlanets = greenPlanetsList.toArray(new String[0]);
+        yellowPlanets = yellowPlanetsList.toArray(new String[0]);
+        neutralPlanets = neutralPlanetsList.toArray(new String[0]);
+        blueFleets = blueFleetsList.toArray(new String[0]);
+        cyanFleets = cyanFleetsList.toArray(new String[0]);
+        greenFleets = greenFleetsList.toArray(new String[0]);
+        yellowFleets = yellowFleetsList.toArray(new String[0]);
+    }
 
 	//Izvedi potek napada glede na st planetov
     private static void attackBasedOnNumPlanets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
