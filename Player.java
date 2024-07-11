@@ -291,12 +291,31 @@ public class Player {
 
 	//Izvedi potek napada glede na st planetov
     private static void attackBasedOnNumPlanets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
+	 // izvedi logiko 
+	 for (String myPlanet : myPlanets) {
+		int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); //random indeks ciljnega planeta
+		String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; //pridobi planet
+		System.out.println("A " + myPlanet + " " + randomTargetPlanet); //izvedi napad
+	 	}
 	}
 
 	 //Izvedi potek napada glede na st fleets
 	 private static void attackBasedOnNumFleets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
-	 }
+		//gleets
+		for (String myPlanet : myPlanets) {
+            int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length);
+            String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex];
+            System.out.println("A " + myPlanet + " " + randomTargetPlanet);
+        } 
+	}
+
 	//Izvedi potek napada glede na barvo planeta
     private static void attackBasedOnPlanetColor(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
+	 // rand barva planeta
+	 for (String myPlanet : myPlanets) {
+		int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); //random indeks
+		String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; //cilj
+		System.out.println("A " + myPlanet + " " + randomTargetPlanet); //izvedi napad
+	}
 	}
 }
