@@ -35,6 +35,7 @@ public class Player {
 
 	public static void main(String[] args) throws Exception {
         String filePath = "best_attributes.txt"; // pot do datoteke z best attributes
+		readBestAttributes(filePath); // preberi best attributes iz datoteke
 
 		try {
             Random rand = new Random(); // random poteze
@@ -160,6 +161,29 @@ public class Player {
         }
     }
 
+	    //preberi datoteko 
+    // izpisi pot do datoteke
+    // exception ce napaka
+    private static void readBestAttributes(String filePath) throws IOException {
+        BufferedReader reader = null;
+        try {
+            reader = new BufferedReader(new FileReader(filePath)); //odpri datoteko za branje
+            String line = reader.readLine(); //preberi prvo vrstico
+            if (line != null && line.startsWith("Best Attribute:")) {
+                String[] parts = line.split(":"); //razdeli vrstico po :
+                if (parts.length >= 2) {
+                    bestAttribute = parts[1].trim(); //pridobi atribut
+                    if (parts.length >= 3) {
+                        bestThreshold = Double.parseDouble(parts[2].trim()); //pridobi prag
+                    }
+                }
+            }
+        } finally {
+            if (reader != null) {
+                reader.close(); //zapri reader
+            }
+        }
+    }
 
 	/**
 	 * This function should be used instead of System.out.print for 
