@@ -33,11 +33,11 @@ public class Player {
     private static String bestAttribute; //najboljsi atribut
     private static double bestThreshold; //najboljsi prag
 
-	public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception {
         String filePath = "best_attributes.txt"; // pot do datoteke z best attributes
-		readBestAttributes(filePath); // preberi best attributes iz datoteke
+        readBestAttributes(filePath); // preberi best attributes iz datoteke
 
-		try {
+        try {
             Random rand = new Random(); // random poteze
 
             
@@ -121,7 +121,7 @@ public class Player {
                 
                 System.out.println("E"); //koncaj potezo
 
-				// Implementacija logike glede na bestAttribute in bestThreshold
+                // Implementacija logike glede na bestAttribute in bestThreshold
                 if (bestAttribute != null) {
                     switch (bestAttribute) {
                         case "NumPlanets":
@@ -150,8 +150,9 @@ public class Player {
                             break;
                     }
                 }
-			}
-		} catch (Exception e) {
+            }
+
+        } catch (Exception e) {
             logToFile("ERROR: " + e.getMessage()); //izpisi napako v datoteko
             e.printStackTrace(); //izpisi sled
         } finally {
@@ -160,8 +161,9 @@ public class Player {
             }
         }
     }
-
-	    //preberi datoteko 
+//------
+    
+    //preberi datoteko 
     // izpisi pot do datoteke
     // exception ce napaka
     private static void readBestAttributes(String filePath) throws IOException {
@@ -185,40 +187,8 @@ public class Player {
         }
     }
 
-	/**
-	 * This function should be used instead of System.out.print for 
-	 * debugging, since the System.out.println is used to send 
-	 * commands to the game
-	 * @param line String you want to log into the log file.
-	 * @throws IOException
-	 */
-	public static void logToFile(String line) throws IOException {
-		if (fileOut == null) {
-			FileWriter fstream = new FileWriter("Igralec.log");
-			fileOut = new BufferedWriter(fstream);
-		}
-		if (line.charAt(line.length() - 1) != '\n') {
-			line += "\n";
-		}
-		fileOut.write(line);
-		fileOut.flush();
-	}
-
-
-	/**
-	 * This function should be called at the start of each turn to obtain information about the current state of the game.
-	 * The data received includes details about planets and fleets, categorized by color and type.
-	 *
-	 * This version of the function uses dynamic lists to store data about planets and fleets for each color,
-	 * accommodating for an unknown quantity of items. At the end of data collection, these lists are converted into fixed-size
-	 * arrays for consistent integration with other parts of the program.
-	 *
-	 * Feel free to modify and extend this function to enhance the parsing of game data to your needs.
-	 *
-	 * @throws NumberFormatException if parsing numeric values from the input fails.
-	 * @throws IOException if an I/O error occurs while reading input.
-	 */
-	public static void getGameState() throws NumberFormatException, IOException {
+    
+    public static void getGameState() throws NumberFormatException, IOException {
         BufferedReader stdin = new BufferedReader(
             new java.io.InputStreamReader(System.in)
         );
@@ -321,33 +291,47 @@ public class Player {
         yellowFleets = yellowFleetsList.toArray(new String[0]);
     }
 
-	//Izvedi potek napada glede na st planetov
-    private static void attackBasedOnNumPlanets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
-	 // izvedi logiko 
-	 for (String myPlanet : myPlanets) {
-		int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); //random indeks ciljnega planeta
-		String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; //pridobi planet
-		System.out.println("A " + myPlanet + " " + randomTargetPlanet); //izvedi napad
-	 	}
-	}
+    //odpravljanje napak
+    public static void logToFile(String line) throws IOException {
+        if (fileOut == null) {
+            FileWriter fstream = new FileWriter("Igralec.log"); //ustvari fileWriter v igralec
+            fileOut = new BufferedWriter(fstream); //ustvari bfwriter za zapisovanje
+        }
+        if (line.charAt(line.length() - 1) != '\n') {
+            line += "\n"; ///nova vrstica
+        }
+        fileOut.write(line); //zapisi vrstico v dat
+        fileOut.flush(); //izpisi da se zagotovi, da se podatki zapisejo v dat
+    }
 
-	 //Izvedi potek napada glede na st fleets
-	 private static void attackBasedOnNumFleets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
-		//gleets
-		for (String myPlanet : myPlanets) {
+    //Izvedi potek napada glede na st planetov
+    private static void attackBasedOnNumPlanets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
+        // izvedi logiko 
+        for (String myPlanet : myPlanets) {
+            int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); //random indeks ciljnega planeta
+            String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; //pridobi planet
+            System.out.println("A " + myPlanet + " " + randomTargetPlanet); //izvedi napad
+        }
+    }
+
+    //Izvedi potek napada glede na st fleets
+    private static void attackBasedOnNumFleets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
+        // Implement logic for attacking based on number of fleets
+        for (String myPlanet : myPlanets) {
             int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length);
             String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex];
             System.out.println("A " + myPlanet + " " + randomTargetPlanet);
-        } 
-	}
+        }
+    }
 
-	//Izvedi potek napada glede na barvo planeta
+    //Izvedi potek napada glede na barvo planeta
     private static void attackBasedOnPlanetColor(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
-	 // rand barva planeta
-	 for (String myPlanet : myPlanets) {
-		int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); //random indeks
-		String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; //cilj
-		System.out.println("A " + myPlanet + " " + randomTargetPlanet); //izvedi napad
-	}
-	}
+        // igra gleets
+        for (String myPlanet : myPlanets) {
+            int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); //random indeks
+            String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; //cilj
+            System.out.println("A " + myPlanet + " " + randomTargetPlanet); //izvedi napad
+        }
+    }
 }
+
