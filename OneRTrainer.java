@@ -30,42 +30,52 @@ public class OneRTrainer {
     }
 
     public static List<GameData> readGameData(String fileName) throws IOException {
-        //inicializacija game data in buffered reader
         List<GameData> gameDataList = new ArrayList<>();
         BufferedReader br = new BufferedReader(new FileReader(fileName));
         String line;
-        //shramba za win in lose barv v hash
-        Map<String, Boolean> colorResults = new HashMap<>();
-        while ((line = br.readLine()) != null) { //do zadnje vrstice beri 
-            String[] tokens = line.split("\\s+"); //tokenizacija
+        Map<String, Integer> colorScores = new HashMap<>();
+        String winningColor = null;
+        int highestScore = -1; // Keep track of the highest score to determine the winner
 
-            //gledamo ce je C ali P prva stvar v text filu, ko je C imamo 5 "tokenov"
-            if (tokens[0].equals("C")) {
-                //status ce je zmaga
-                if (tokens.length >= 5) {
-                    String color = tokens[3].trim();
-                    boolean isWinner = tokens[4].trim().equals("1");
-                    colorResults.put(color, isWinner);
+        while ((line = br.readLine()) != null) {
+            String[] tokens = line.split("\\s+");
+
+            // pridobi R da dobis rezultat vsake barve
+            if (tokens[0].equals("R")) {
+                if (tokens.length >= 3) {
+                    int score = Integer.parseInt(tokens[1].trim());
+                    String color = tokens[2].trim();
+                    colorScores.put(color, score);
+
+                    // doloci highestScore = zmaga
+                    if (score > highestScore) {
+                        highestScore = score;
+                        winningColor = color;
+                    }
                 }
-            } else if (tokens[0].equals("P")) {
+            } 
+
+            // Handle 'P' lines for planet information
+            else if (tokens[0].equals("P")) {
                 if (tokens.length >= 7) {
-                    //tokenizacija podatkov planetov, dodano v game data list
                     int id = Integer.parseInt(tokens[1].trim());
                     int x = Integer.parseInt(tokens[2].trim());
                     int y = Integer.parseInt(tokens[3].trim());
                     double size = Double.parseDouble(tokens[4].trim());
                     int value = Integer.parseInt(tokens[5].trim());
                     String color = tokens[6].equals("null") ? null : tokens[6].trim();
-                    boolean isWinner = color != null && colorResults.getOrDefault(color, false);
+
+                    // Determine if this planet's color is the winner
+                    boolean isWinner = color != null && color.equals(winningColor);
                     gameDataList.add(new PlanetData(id, x, y, size, value, color, isWinner));
                 }
             }
         }
-        //brez ne dela, zakaj? Nism sure
-        //"Pravilno zapiranje datoteke"
+
         br.close();
         return gameDataList;
     }
+
 
     public static OneRModel trainOneR(List<GameData> gameDataList) {
         //inicializacija 
