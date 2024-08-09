@@ -114,40 +114,51 @@ public class Player {
                     jaz imam planete..napadem random planet
                 */
                 if (targetPlayerPlanets.length > 0 && myPlanets.length > 0) {
-                        // Preveri ali ima enmy ima še planete in ali imamo mi planete iz katerih lahko napadamo
-                    for (int i = 0; i < myPlanets.length; i++) {
-                        String myPlanet = myPlanets[i]; // Pridobi ime mojega planeta
-                        int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); // Izberi random indeks cilja 
-                        String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; // planet nasprotnika
+                    for (String myPlanet : myPlanets) {
+                        int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); //random indeks ciljnega planeta
+                        String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; ///pridobi ta planet
                         
-                        // napademo z oneR?
-                        boolean shouldAttack = shouldAttack(myPlanet, randomTargetPlanet, bestAttribute, bestThreshold);
-    
-                        if (shouldAttack) {
-                            // Napadi na z OneR
-                            System.out.println("A " + myPlanet + " " + randomTargetPlanet);
-                        } else {
-                            // else random
-                            if (rand.nextBoolean()) { // 50% možnost za random napad
-                                System.out.println("A " + myPlanet + " " + randomTargetPlanet);
-                            }
-                        }
+                        System.out.println("A " + myPlanet + " " + randomTargetPlanet); //izvedi napad
                     }
                 }
+
                 
-                /*
-                    - send a hello message to your teammate bot :)
-                    - it will receive it from the game next turn (if the bot parses it)
-                */
                 System.out.println("M Hello");
-    
-                /*
-                    - E will end my turn. 
-                    - you should end each turn (if you don't the game will think you timed-out)
-                    - after E you should send no more commands to the game
-                */
-                System.out.println("E");
+
+                
+                System.out.println("E"); //koncaj potezo
+
+                // Implementacija logike glede na bestAttribute in bestThreshold
+                if (bestAttribute != null) {
+                    switch (bestAttribute) {
+                        case "NumPlanets":
+                            // logika glede na št planetov
+                            if (myPlanets.length >= bestThreshold) {
+                                // izvedi igro glede na prag
+                                attackBasedOnNumPlanets(myPlanets, targetPlayerPlanets, rand);
+                            }
+                            break;
+                        case "NumFleets":
+                            // Logika st float
+                            if (myFleets.length >= bestThreshold) {
+                                // igra glede na prag
+                                attackBasedOnNumFleets(myPlanets, targetPlayerPlanets, rand);
+                            }
+                            break;
+                        case "PlanetColor":
+                            // Logika glede barve planetov
+                            if (myColor.equals("blue") && bestThreshold > 0.5) {
+                                
+                                attackBasedOnPlanetColor(myPlanets, targetPlayerPlanets, rand);
+                            }
+                            break;
+                        default:
+                            // ostalo
+                            break;
+                    }
+                }
             }
+
         } catch (Exception e) {
             logToFile("ERROR: ");
             logToFile(e.getMessage()); //izpisi napako v datoteko
@@ -434,38 +445,23 @@ public class Player {
         greenFleets = greenFleetsList.toArray(new String[0]);
         yellowFleets = yellowFleetsList.toArray(new String[0]);
     }
-	private static void attackBasedOnNumPlanets(String[] myPlanets, String[] targetPlayerPlanets, String[] allyPlanets, Random rand) {
-		//izracunaj st attack na podlagi st mojih planetov
-		int numAttacks = Math.min(myPlanets.length, targetPlayerPlanets.length);
 
-		
+    //odpravljanje napak
+    public static void logToFile(String line) throws IOException {
+        if (fileOut == null) {
+            FileWriter fstream = new FileWriter("Igralec.log"); //ustvari fileWriter v igralec
+            fileOut = new BufferedWriter(fstream); //ustvari bfwriter za zapisovanje
+        }
+        if (line.charAt(line.length() - 1) != '\n') {
+            line += "\n"; ///nova vrstica
+        }
+        fileOut.write(line); //zapisi vrstico v dat
+        fileOut.flush(); //izpisi da se zagotovi, da se podatki zapisejo v dat
+    }
 
-		for (int i = 0; i < numAttacks; i++) {
-			String myPlanet = myPlanets[i % myPlanets.length];
-			String targetPlanet = targetPlayerPlanets[i % targetPlayerPlanets.length];
-
-
-			// napadi
-			System.out.println("A " + myPlanet + " " + targetPlanet);
-		}
-	}
-	private static void attackBasedOnNumFleets(String[] myPlanets, String[] targetPlayerPlanets, String[] allyFleets, Random rand) {
-		// Določite število flot za namestitev
-		int numFleets = Math.min(myPlanets.length + allyFleets.length, targetPlayerPlanets.length);
-
-		/// Okrepi napade ali strateško razširite flote
-		for (int i = 0; i < numFleets; i++) {
-			String myPlanet = myPlanets[i % myPlanets.length];
-			String targetPlanet = targetPlayerPlanets[i % targetPlayerPlanets.length];
-
-			// napadi iz različnih smeri, da povečate učinek
-			System.out.println("A " + myPlanet + " " + targetPlanet);
-
-			}
-	}
-
-	private static void attackBasedOnPlanetColor(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
-        // Določite strategijo glede na barvo
+    //Izvedi potek napada glede na st planetov
+    private static void attackBasedOnNumPlanets(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
+        // izvedi logiko 
         for (String myPlanet : myPlanets) {
             for (String targetPlanet : targetPlayerPlanets) {
                 // preveri prednost barve cilja
@@ -483,14 +479,16 @@ public class Player {
         if (myColor.equals("green") && (targetPlanet.equals("blue") || targetPlanet.equals("cyan"))) {
             return true;
         }
-
-    /// oranzna ima prednost pred blue in cyan
-        if (myColor.equals("orange") && (targetPlanet.equals("cyan") || targetPlanet.equals("green"))) {
-            return true;
-        }
-
-        return false;
     }
 
-
+    //Izvedi potek napada glede na barvo planeta
+    private static void attackBasedOnPlanetColor(String[] myPlanets, String[] targetPlayerPlanets, Random rand) {
+        // igra gleets
+        for (String myPlanet : myPlanets) {
+            int randomEnemyIndex = rand.nextInt(targetPlayerPlanets.length); //random indeks
+            String randomTargetPlanet = targetPlayerPlanets[randomEnemyIndex]; //cilj
+            System.out.println("A " + myPlanet + " " + randomTargetPlanet); //izvedi napad
+        }
+    }
 }
+

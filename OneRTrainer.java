@@ -75,6 +75,7 @@ public class OneRTrainer {
         br.close();
         return gameDataList;
     }
+
     public static OneRModel trainOneR(List<GameData> gameDataList) {
         // Initialize variables
         String[] attributes = {"NumPlanets", "NumFleets"};
