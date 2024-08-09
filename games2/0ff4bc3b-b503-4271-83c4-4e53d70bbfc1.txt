@@ -1,0 +1,261 @@
+U 100 100
+C ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b blue 0
+C ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b red 1
+C ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b yellow 0
+C ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b green 1
+P 0 91 31 0.3 30 blue
+P 1 95 32 1.0 100 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 100 null
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 30 yellow
+P 7 5 68 1.0 100 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 100 null
+P 11 16 96 0.4 40 null
+R 33 blue
+R 60 red
+R 33 yellow
+R 110 green
+P 0 91 31 0.3 18 blue
+P 1 95 32 1.0 60 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 50 null
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 18 yellow
+P 7 5 68 1.0 60 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 100 null
+P 11 16 96 0.4 40 null
+F 0 15 0 4 1 2 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 2 15 6 7 1 2 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 3 50 7 6 1 2 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 21 blue
+R 40 red
+R 0 yellow
+R 54 green
+P 0 91 31 0.3 12 blue
+P 1 95 32 1.0 40 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 5 null
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 29 green
+P 7 5 68 1.0 25 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 70 null
+P 11 16 96 0.4 40 null
+F 4 9 0 4 1 2 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+L ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b out_of_ships
+R 15 blue
+R 46 red
+R 0 yellow
+R 55 green
+P 0 91 31 0.3 15 blue
+P 1 95 32 1.0 30 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 16 red
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 18 green
+P 7 5 68 1.0 23 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 58 null
+P 11 16 96 0.4 40 null
+F 8 14 6 10 1 2 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 18 blue
+R 66 red
+R 0 yellow
+R 43 green
+P 0 91 31 0.3 18 blue
+P 1 95 32 1.0 48 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 18 red
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 12 green
+P 7 5 68 1.0 22 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 33 null
+P 11 16 96 0.4 40 null
+F 11 9 6 10 1 2 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 21 blue
+R 86 red
+R 0 yellow
+R 36 green
+P 0 91 31 0.3 21 blue
+P 1 95 32 1.0 67 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 19 red
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 9 green
+P 7 5 68 1.0 21 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 13 null
+P 11 16 96 0.4 40 null
+F 14 6 6 10 1 2 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 24 blue
+R 106 red
+R 0 yellow
+R 36 green
+P 0 91 31 0.3 24 blue
+P 1 95 32 1.0 86 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 20 red
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 8 green
+P 7 5 68 1.0 21 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 3 green
+P 11 16 96 0.4 40 null
+F 17 4 6 10 1 2 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 27 blue
+R 126 red
+R 0 yellow
+R 59 green
+P 0 91 31 0.3 27 blue
+P 1 95 32 1.0 63 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 20 red
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 7 green
+P 7 5 68 1.0 21 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 16 green
+P 11 16 96 0.4 40 null
+F 19 43 1 0 1 2 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 21 4 6 11 1 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 22 10 7 11 1 15 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 23 1 10 11 1 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+R 0 blue
+R 116 red
+R 0 yellow
+R 82 green
+P 0 91 31 0.3 13 red
+P 1 95 32 1.0 83 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 20 red
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 7 green
+P 7 5 68 1.0 21 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 18 green
+P 11 16 96 0.4 40 null
+F 21 4 6 11 2 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 22 10 7 11 2 15 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 23 1 10 11 2 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 3 6 11 1 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 26 10 7 11 1 15 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 8 10 11 1 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+L ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b out_of_ships
+R 0 blue
+R 139 red
+R 0 yellow
+R 105 green
+P 0 91 31 0.3 16 red
+P 1 95 32 1.0 93 red
+P 2 33 29 0.4 40 null
+P 3 67 3 1.0 100 null
+P 4 96 29 1.0 30 red
+P 5 84 4 0.4 40 null
+P 6 9 69 0.3 7 green
+P 7 5 68 1.0 21 green
+P 8 67 71 0.4 40 null
+P 9 33 97 1.0 100 null
+P 10 4 71 1.0 19 green
+P 11 16 96 0.4 40 null
+F 21 4 6 11 3 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 22 10 7 11 3 15 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 23 1 10 11 3 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 25 3 6 11 2 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 26 10 7 11 2 15 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 27 8 10 11 2 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 28 3 6 11 1 13 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 29 10 7 11 1 15 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+F 30 9 10 9 1 19 ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+STAT: ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+turnsPlayed: 8
+winner: false
+fleetGenerated: 24
+fleetLost: 20
+fleetReinforced: 0
+largestAttack: 15
+largestLoss: 15
+largestReinforcement: 0
+planetsLost: 2
+planetsConquered: 1
+planetsDefended: 0
+planetsAttacked: 2
+numFleetLost: 1
+numFleetReinforced: 0
+numFleetGenerated: 2
+totalTroopsGenerated: 24
+
+STAT: ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+turnsPlayed: 1000
+winner: true
+fleetGenerated: 189
+fleetLost: 114
+fleetReinforced: 46
+largestAttack: 50
+largestLoss: 50
+largestReinforcement: 10
+planetsLost: 0
+planetsConquered: 2
+planetsDefended: 0
+planetsAttacked: 4
+numFleetLost: 2
+numFleetReinforced: 5
+numFleetGenerated: 9
+totalTroopsGenerated: 153
+
+STAT: ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+turnsPlayed: 2
+winner: false
+fleetGenerated: 15
+fleetLost: 15
+fleetReinforced: 0
+largestAttack: 15
+largestLoss: 15
+largestReinforcement: 0
+planetsLost: 1
+planetsConquered: 0
+planetsDefended: 0
+planetsAttacked: 1
+numFleetLost: 1
+numFleetReinforced: 0
+numFleetGenerated: 1
+totalTroopsGenerated: 6
+
+STAT: ./resources/matches/0ff4bc3b-b503-4271-83c4-4e53d70bbfc1/ea9919b8-72f4-4aeb-8cad-65d3825d184b
+turnsPlayed: 1000
+winner: true
+fleetGenerated: 215
+fleetLost: 121
+fleetReinforced: 4
+largestAttack: 50
+largestLoss: 30
+largestReinforcement: 4
+planetsLost: 0
+planetsConquered: 2
+planetsDefended: 1
+planetsAttacked: 9
+numFleetLost: 7
+numFleetReinforced: 1
+numFleetGenerated: 19
+totalTroopsGenerated: 141
